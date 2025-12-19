@@ -32,10 +32,3 @@ cd AIChatBot-GUI
 
 # 📄 License
 MIT License
-
----
-
-## 🔹 file `requirements.txt`
-```text
-# No external dependencies required
-# Tkinter is included with Python standard library
